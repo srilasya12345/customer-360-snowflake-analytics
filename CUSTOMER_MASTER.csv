@@ -1,0 +1,38 @@
+CUSTOMER_ID,NAME,EMAIL,SEGMENT,GEOGRAPHY
+CUST001,John Smith,john@email.com,High,USA
+CUST002,Jane Doe,jane@email.com,Mid,India
+CUST003,Bob Wilson,bob@email.com,Low,UK
+CUST001,,john@email.com,High,USA
+CUST004,Alice Chen,,High,Canada
+CUST002,Jane Doe,jane@email.com,Mid,India
+,,David Kim,david@email.com,High,Korea
+CUST005,Raj Patel,,Medium,India
+CUST006,Maria Garcia,maria@email.com,Low,Mexico
+CUST007,Sarah Brown,sarah@email.com,Medium,Australia
+CUST001,John Smith,john@email.com,High,USA
+CUST008,Ahmed Khan,ahmed@email.com,Low,Pakistan
+CUST009,Lisa Wong,lisa@email.com,High,Singapore
+CUST010,Mike Johnson,,Medium,Canada
+CUST011,Priya Sharma,priya@email.com,High,India
+CUST012,Carlos Lopez,,Low,Brazil
+CUST013,Emma Davis,emma@email.com,Mid,USA
+CUST014,,kevin@email.com,Low,Australia
+CUST015,Tom Brown,tom@email.com,High,UK
+CUST016,Anna Lee,,High,Korea
+CUST017,Ravi Kumar,ravi@email.com,Medium,India
+CUST018,Sofia Rodriguez,sofia@email.com,Low,Spain
+CUST019,,oliver@email.com,High,Germany
+CUST020,Liam Chen,liam@email.com,Mid,Canada
+CUST021,Isabella Garcia,,Low,Mexico
+CUST022,Noah Patel,noah@email.com,High,India
+CUST023,Charlotte Kim,charlotte@email.com,Medium,Korea
+CUST024,,james@email.com,Low,USA
+CUST025,Olivia Wong,olivia@email.com,High,Singapore
+CUST026,Lucas Singh,lucas@email.com,Mid,India
+CUST027,Ava Khan,ava@email.com,Low,Pakistan
+CUST028,Ethan Lee,,High,Korea
+CUST029,Sophia Chen,sophia@email.com,Medium,Canada
+CUST030,Jack Wilson,jack@email.com,High,UK
+CUST031,Mia Brown,,Mid,Australia
+CUST032,Henry Garcia,henry@email.com,Low,Mexico
+CUST033,Amelia Patel,amelia@email.com,High,India

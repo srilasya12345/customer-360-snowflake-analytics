@@ -1,0 +1,31 @@
+CUSTOMER_ID,EVENT_TIME,CHANNEL,ACTION_TYPE,PAGE_SCREEN
+CUST001,2026-02-01 10:30,web,view_product,product_page
+CUST002,2026-02-01 14:20,mobile,purchase,checkout
+CUST001,2026-02-01 10:32,web,add_cart,product_page
+CUST003,2026-01-30 09:15,,view_product,home
+CUST001,2026-02-01 10:30,web,view_product,product_page
+CUST004,2026-02-02 11:20,web,view_pricing,pricing
+CUST005,2026-02-03 16:45,mobile,scroll,features
+CUST002,2026-02-01 14:20,mobile,purchase,checkout
+CUST006,2026-02-04 13:10,web,view_about,about
+CUST007,2026-02-05 08:30,,view_home,home
+CUST008,2026-02-06 17:20,mobile,view_pricing,pricing
+CUST009,2026-02-07 12:00,web,view_home,
+CUST010,2026-02-08 15:15,mobile,click_contact,contact
+CUST011,2026-02-09 09:45,web,,home
+CUST012,2026-02-10 14:30,mobile,purchase,
+CUST001,2026-02-01 10:32,web,add_cart,product_page
+CUST013,2026-02-11 11:00,,scroll,features
+CUST014,2026-02-12 16:20,web,view_product,
+CUST015,2026-02-13 10:10,mobile,,pricing
+CUST016,,2026-02-14 13:45,web,view_about,about
+CUST017,2026-02-15 09:30,mobile,scroll_home,
+CUST018,2026-02-16 17:55,,view_pricing,pricing
+CUST019,2026-02-17 12:25,web,,contact
+CUST020,2026-02-18 15:40,mobile,purchase,checkout
+CUST021,2026-02-19 08:20,web,view_product,product_page
+CUST022,2026-02-20 14:10,,add_cart,
+CUST023,2026-02-21 11:35,mobile,scroll,features
+CUST024,2026-02-22 16:50,web,view_home,
+CUST025,2026-02-23 10:05,,click_contact,contact
+CUST026,2026-
